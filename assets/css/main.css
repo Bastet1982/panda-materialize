@@ -1,0 +1,22 @@
+body{
+	padding: 0;
+	color:white;
+}
+h2{
+	padding-right: 0.3125em;
+}
+
+h5{
+	padding-right: 0.625em;
+}
+
+.card-panel{
+	text-align: center;
+	border-top: 0.625em solid #ffb74d;
+	border-bottom: 0.625em solid #ffb74d;
+}
+
+.mini{
+	margin: 0.625em;
+	border: 0.5em solid white;
+}
